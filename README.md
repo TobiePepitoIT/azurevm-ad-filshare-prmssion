@@ -1,0 +1,1 @@
+# azurevm-ad-filshare-prmssion
